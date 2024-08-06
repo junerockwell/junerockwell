@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @junerockwell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @junerockwell, a Fullstack Software Engineer.
+- 🎆 I make Web Apps, Mobile Apps, and Web Service APIs with/out Databases.
+- 👀 I’m interested in Git Workflows, CI/CD, E2E Testings, Unit Testings, DevOps, Figma, Design Systems.
+- 🌱 I’m currently learning / researching Cypress, GitHub Actions, and Design Systems.
+- 💞️ I’m looking to collaborate on Figma and Design Systems.
+- 🤩 Currently, I'm into NextJS, NuxtJS, and Strapi CMS (or any Headless CMS).
+- ⛑️ I'm surprisingly reviewing / working again on jQuery because I'm mentoring someone on it.
 
 <!---
 junerockwell/junerockwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
