@@ -3,7 +3,7 @@
 - 👀 I’m interested in Git Workflows, CI/CD, E2E Testings, Unit Testings, DevOps, Figma, Design Systems.
 - 🌱 I’m currently learning / researching Cypress, GitHub Actions, and Design Systems.
 - 💞️ I’m looking to collaborate on Figma and Design Systems.
-- 🤩 Currently, I'm into NextJS, NuxtJS, and Strapi CMS (or any Headless CMS).
+- 🤩 Currently, I'm into NextJS, NuxtJS, and Strapi CMS (or any Headless JavaScript CMS).
 - ⛑️ I'm surprisingly reviewing / working again on jQuery because I'm mentoring someone on it.
 
 <!---
