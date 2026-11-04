@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @junerockwell, a Fullstack Software Engineer.
 - 🎆 I build systems composed of web apps, mobile apps, and web service APIs, with/out databases, and integrate AI models into them, either through hosted APIs or self-hosted.
 - 👀 I've worked on projects that use AWS, Vercel, MongoDB, Render, Git Workflows, CI/CD with GitHub Actions, Cypress E2E Testings, Unit Testings, Figma, Design Systems, and Shopify.
-- 🤩 I love using React, NextJS, NuxtJS, Strapi CMS, Sanity CMS, Payload CMS, Hugging Face, Restify, Ionic React, React Native.
+- 🤩 I love using React, NextJS, NuxtJS, Strapi CMS, Sanity CMS, Payload CMS, free Hugging Face models, Restify, Ionic React, React Native.
 - 🍕 I started my career with the LAMP stack and self-taught myself iOS SDK with Objective-C. Then, I switched to Ionic v1 with Cordova and Angular to build mobile apps along with React or Vue to build admin apps.
 - 🎵 On my spare time, I play my instruments 🥁🎸🐟! Because I definitely need a life🐱 outside of my job, lolz. I used to play venues around the DFW area. 
 
